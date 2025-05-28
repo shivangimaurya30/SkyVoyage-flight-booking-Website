@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 - **React.js** (Vite)
 - **TypeScript**
-- - **Tailwind CSS**
+- **Tailwind CSS**
 
 ---
 
