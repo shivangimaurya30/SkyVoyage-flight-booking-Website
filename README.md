@@ -2,7 +2,10 @@
 
 > A modern, responsive flight booking experience built using **React.js** and **Tailwind CSS**.  
 > SkyVoyage helps users simulate booking flights seamlessly with beautiful design, sleek animations, and real-world UX flow – all powered by **dummy data**.
-> Live demo: https://skyvoyage.netlify.app/
+
+---
+
+Live demo: https://skyvoyage.netlify.app/
 
 ---
 
